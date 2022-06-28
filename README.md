@@ -1,0 +1,2 @@
+# Prediction of Early Recurrence in Squamous Cell Carcinoma of Head and Neck (SCCHN)
+Here are the source codes of the machine learning methods for identifying transcriptomic and proteomic factors that play important roles in predicting risk of recurrence in patients with SCCHN and develop such models by iterative cycles to enhance their accuracy, thereby aiding the introduction of personalized treatment regimens.
